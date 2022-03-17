@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML/DS/DE
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vkoll28&theme=algolia&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vkoll29&theme=algolia&show_icons=true&count_private=true)
