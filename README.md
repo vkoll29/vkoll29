@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on an automation concept using Twitter API, Azure Cognitive Services, Telegram Bot API, and MongoDB. 
-- 🌱 I'm currently learning containerization and MLOps 
+- 🌱 I'm also learning containerization and MLOps 
 - 👯 I'd like to collaborate on Python/ PySpark/ JS work
 - 💬 Ask me about ML/DS/DE
 
