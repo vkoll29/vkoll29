@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am George Owino, a data enthusiast. I read numbers (like Helios One's Fantastic), process and store them. I try to make as accurate deductions about what those numbers tell as possible. I am your data scientist / engineer.
+I am George Owino, a data enthusiast. I seek data, do magic on it then store or serve it to other people who need it. I also read numbers (like Helios One's Fantastic), process and store them. I try to make as accurate deductions about what those numbers tell as possible. More importantly, I setup the infrastrure on which the data and systems utilizing this data run.
 
 <!--
 **vkoll29/vkoll29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an automation concept using Twitter API, Azure Cognitive Services, Telegram Bot API, and MongoDB. 
+- 🔭 I’m currently working on an automation concept using Terraform, Twitter API, Azure Cognitive Services, Telegram Bot API, and MongoDB. 
 - 🌱 I'm also learning containerization and MLOps 
-- 👯 I'd like to collaborate on Python/ PySpark/ JS work
-- 💬 Ask me about ML/DS/DE
+- 👯 I'd like to collaborate on infrastructure related work
+- 💬 Ask me about ML/DE and infra
 
 [![My language stats this week](https://github-readme-stats.vercel.app/api/wakatime?username=vkoll29&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
