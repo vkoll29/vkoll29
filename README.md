@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 👯 I'd like to collaborate on infrastructure related work
 - 💬 Ask me about data engineering and infra
 
-[![My language stats this week](https://github-readme-stats.vercel.app/api/wakatime?username=vkoll29&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![My language stats this week](./profile/wakatime.svg)](https://wakatime.com/@vkoll29)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vkoll29&theme=algolia&show_icons=true&count_private=true)
+![Github stats](./profile/stats.svg)
