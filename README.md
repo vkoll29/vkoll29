@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 👯 I'd like to collaborate on infrastructure related work
 - 💬 Ask me about data engineering and infra
 
-[![My language stats this week](./profile/wakatime.svg)](https://wakatime.com/@vkoll29)
+![Top languages](./profile/top-langs.svg)
 
 ![Github stats](./profile/stats.svg)

@@ -35,13 +35,13 @@ jobs:
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate WakaTime card
+      - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: wakatime
-          options: username=vkoll29&theme=cobalt
-          path: profile/wakatime.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=cobalt&layout=compact&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Commit cards
